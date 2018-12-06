@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/kevin/Desktop/EE 312/plagiarismCatcher/TextList.h
+
+C:/Users/kevin/Desktop/EE 312/plagiarismCatcher/main.cpp
+sys/types.h
+-
+dirent.h
+-
+errno.h
+-
+vector
+-
+string
+-
+iostream
+-
+fstream
+-
+algorithm
+-
+iterator
+-
+queue
+-
+map
+-
+TextList.h
+C:/Users/kevin/Desktop/EE 312/plagiarismCatcher/TextList.h
+
